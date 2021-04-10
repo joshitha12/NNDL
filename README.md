@@ -1,5 +1,5 @@
 NNDL
-assignment01---Global minimum point and value of f(x)
+<assignment01---Global minimum point and value of f(x)>
 assignment02---Global minimum point and value of f(x,y)
 assignment03---Gradient descent optimizer using simple linear regression
 assignment04---Estimate the bicarbonates of well water based on its PH value using SGD optimizer
